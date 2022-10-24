@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milanoi
 - 🌐 https://milanoi.github.io/
-- 📫 How to reach me: soniamilanoi1@gmail.com
+- 📫 How to reach me: himilanoi@gmail.com
 
 <!---
 milanoi/milanoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
